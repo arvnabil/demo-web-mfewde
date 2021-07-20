@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "31006acb7de11cefae58",
-  "time": 14867,
-  "builtAt": 1626766161436,
+  "hash": "e3ff00ae384e6302ae02",
+  "time": 14112,
+  "builtAt": 1626767414279,
   "publicPath": "",
   "outputPath": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\dist",
   "assetsByChunkName": {
@@ -52,7 +52,7 @@
     },
     {
       "name": "bundle.js",
-      "size": 15894,
+      "size": 15893,
       "chunks": [
         2
       ],
@@ -193,7 +193,7 @@
     },
     {
       "name": "sw.js",
-      "size": 12813,
+      "size": 12812,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -275,9 +275,9 @@
           "chunks": [
             0
           ],
-          "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\main.css",
-          "issuerId": 14,
-          "issuerName": "./src/styles/main.css",
+          "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\responsive.css",
+          "issuerId": 16,
+          "issuerName": "./src/styles/responsive.css",
           "issuerPath": [
             {
               "id": 12,
@@ -285,9 +285,9 @@
               "name": "./src/scripts/index.js"
             },
             {
-              "id": 14,
-              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\main.css",
-              "name": "./src/styles/main.css"
+              "id": 16,
+              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\responsive.css",
+              "name": "./src/styles/responsive.css"
             }
           ],
           "failed": false,
@@ -1046,14 +1046,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 26959,
+      "size": 26958,
       "names": [
         "main~25018730"
       ],
       "files": [
         "bundle.js"
       ],
-      "hash": "1588b27bb439a220a8f7",
+      "hash": "191cefe1261b18356afa",
       "siblings": [
         0,
         1,
@@ -1069,7 +1069,7 @@
           "name": "./src/scripts/globals/config.js",
           "index": 23,
           "index2": 17,
-          "size": 373,
+          "size": 372,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1338,9 +1338,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
+              "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuerName": "./src/scripts/views/pages/home.js",
               "issuerPath": [
                 {
                   "id": 12,
@@ -1359,8 +1359,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js"
                 }
               ],
               "failed": false,
@@ -1465,8 +1465,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js"
                 },
                 {
                   "id": null,
@@ -2421,9 +2421,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
+              "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuerName": "./src/scripts/views/pages/home.js",
               "issuerPath": [
                 {
                   "id": 12,
@@ -2442,8 +2442,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
+                  "name": "./src/scripts/views/pages/home.js"
                 }
               ],
               "failed": false,
@@ -3269,7 +3269,7 @@
       "name": "./src/scripts/globals/config.js",
       "index": 23,
       "index2": 17,
-      "size": 373,
+      "size": 372,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3538,9 +3538,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
+          "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuerName": "./src/scripts/views/pages/home.js",
           "issuerPath": [
             {
               "id": 12,
@@ -3559,8 +3559,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js"
             }
           ],
           "failed": false,
@@ -3665,8 +3665,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js"
             },
             {
               "id": null,
@@ -3850,9 +3850,9 @@
       "chunks": [
         0
       ],
-      "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\main.css",
-      "issuerId": 14,
-      "issuerName": "./src/styles/main.css",
+      "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\responsive.css",
+      "issuerId": 16,
+      "issuerName": "./src/styles/responsive.css",
       "issuerPath": [
         {
           "id": 12,
@@ -3860,9 +3860,9 @@
           "name": "./src/scripts/index.js"
         },
         {
-          "id": 14,
-          "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\main.css",
-          "name": "./src/styles/main.css"
+          "id": 16,
+          "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\styles\\responsive.css",
+          "name": "./src/styles/responsive.css"
         }
       ],
       "failed": false,
@@ -4764,9 +4764,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
+          "issuer": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuerName": "./src/scripts/views/pages/home.js",
           "issuerPath": [
             {
               "id": 12,
@@ -4785,8 +4785,8 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\Nabil\\Documents\\restaurant-apps\\submission 2\\src\\scripts\\views\\pages\\home.js",
+              "name": "./src/scripts/views/pages/home.js"
             }
           ],
           "failed": false,
@@ -6538,7 +6538,7 @@
       "assets": [
         {
           "name": "sw.js",
-          "size": 12334,
+          "size": 12333,
           "chunks": [
             0
           ],
@@ -6578,12 +6578,12 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 33985,
+          "size": 33984,
           "names": [],
           "files": [
             "sw.js"
           ],
-          "hash": "277444f74808276a2f03",
+          "hash": "23a16da667b5e10c9198",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -6595,7 +6595,7 @@
               "name": "./src/scripts/utils/cache-helper.js + 1 modules",
               "index": 4,
               "index2": 4,
-              "size": 5895,
+              "size": 5894,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -6737,7 +6737,7 @@
                   "name": "./src/scripts/globals/config.js",
                   "index": 5,
                   "index2": 3,
-                  "size": 373,
+                  "size": 372,
                   "cacheable": true,
                   "built": true,
                   "optional": false,
@@ -7006,7 +7006,7 @@
           "name": "./src/scripts/utils/cache-helper.js + 1 modules",
           "index": 4,
           "index2": 4,
-          "size": 5895,
+          "size": 5894,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -7148,7 +7148,7 @@
               "name": "./src/scripts/globals/config.js",
               "index": 5,
               "index2": 3,
-              "size": 373,
+              "size": 372,
               "cacheable": true,
               "built": true,
               "optional": false,
